@@ -1,5 +1,7 @@
 package tictactoe;
 
+// Si fossi foco arderei lo mondo
+
 /**
  * @brief Una partita del gioco.
  */
