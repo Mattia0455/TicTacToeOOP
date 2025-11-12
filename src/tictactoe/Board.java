@@ -1,8 +1,11 @@
 package tictactoe;
 
 /**
- * @brief La scacchiera del gioco.
+ * @brief La scacchiera del gioco. modificatoooooo
+ * Ho aggiunto questo commento perchè si lalalallaalal
  * @invariant
+ * asassasasasasaalaoooo
+ * jkjhjojjokjklmlk
  * Il numero di celle contenenti X è uguale
  * al numero di celle contenenti O, oppure
  * al numero di celle contenenti O più 1.
